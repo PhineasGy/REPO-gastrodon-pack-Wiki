@@ -2,9 +2,13 @@
 
 <details><summary><b>Info (English)</b></summary>
 
-## Version: V0.16.1
+## Version: V0.16.2
 
 - ***Diversity Update***
+- 0.16.2
+  - add 1 new enemy: Math Teacher
+  - quick fix for number of mods in the modpack
+    - remove [PeakValuables](https://thunderstore.io/c/repo/p/ItsEmul/PEAKValuables/) so make sure the number of total mods for the modpack is correct (133+1)
 - 0.16.1
   - Add more Mutators variants! [Mutators](https://thunderstore.io/c/repo/p/Xepos/Mutators/), [Mutators_Addon](https://thunderstore.io/c/repo/p/GastrodonGroup/Mutators_Addon/)
   - update some mods.
@@ -12,10 +16,12 @@
   - More Mutators events! [Mutators](https://thunderstore.io/c/repo/p/Xepos/Mutators/), [Mutators_Addon](https://thunderstore.io/c/repo/p/GastrodonGroup/Mutators_Addon/)
   - More Cosmetics to Discover! [Cat_Cosmetics](https://thunderstore.io/c/repo/p/Eberk/Cat_Cosmetics/), [KitesRepoCosmetics](https://thunderstore.io/c/repo/p/Kite_Sergal/KitesRepoCosmetics/), [MonsterCosmetics](https://thunderstore.io/c/repo/p/Xuaun/MonsterCosmetics/), [FortniteSemibot](https://thunderstore.io/c/repo/p/Xuaun/FortniteSemibot/), [YoshiCarry](https://thunderstore.io/c/repo/p/Xuaun/YoshiCarry/), [Pokemon_Cosmetics](https://thunderstore.io/c/repo/p/Omniscye/Pokemon_Cosmetics/), [Sims_Cosmetics](https://thunderstore.io/c/repo/p/Omniscye/Sims_Cosmetics/), 
   - Other More...
-  
+
+- It is recommended to install [Gale Mod Manager](https://gale-mod-manager.thunderstore.io/) to manage the modpack.
+- It is recommended to create a new profile and install/update the modpack
 - It is recommended not to click "update all" button in Gale mod manager.
 - version V0.14.X or earlier is outdated and won't work in Cosmetic Update.
-- Current bug and conflict list: see [Known Bugs](#known-bugs). Most do not affect gameplay.
+- Current bug and conflict list: see **[FAQ & Known Bugs]**. Most do not affect gameplay.
 
 ## Video: (outdated)
 
@@ -23,9 +29,9 @@
 
 ## Main Features:
 
-- Number of mods: 133
+- Number of mods: 133 + 1(modpack icon)
 - The Most Complete Traditional Chinese Support! (Edited by me and Credits to [GDG Traditional Chinese Translation](https://thunderstore.io/c/repo/p/GrandDuchyOfGames/GDG_Traditional_Chinese_Translation/) by GrandDuchyOfGames)
-- ***`Enemies`***: Vanilla 29 + Modded 8+ = 37+ (with color-variants)
+- ***`Enemies`***: Vanilla 29 + Modded 9+ = 38+ (with color-variants)
 - ***`Maps`***: Vanilla 4 + Modded 19 = 23
 - ***`Upgrades`***: Vanilla 12 + Modded 24 = 36
 - ***`Valuables`***: 2000+
@@ -91,7 +97,6 @@ The game is smooth and fully playable. You are welcome to enable or disable mods
 - [Monster Plushies](https://thunderstore.io/c/repo/p/Dumbapple/MonsterPlushies/)
 
 ### ***From-Other-Games Valuables***
-- ***`Peak`*** [PEAKValuables](https://thunderstore.io/c/repo/p/ItsEmul/PEAKValuables/)
 - ***`Pokémon`*** [PokemonItems](https://thunderstore.io/c/repo/p/Kiriki/PokemonItems/)
 - ***`Abiotic Factor`*** [AbioticFactorValuables](https://thunderstore.io/c/repo/p/Nikki/AbioticFactorValuables/)
 - ***`The Legend of Zelda: Ocarina of Time`*** [WindysOOTValuables](https://thunderstore.io/c/repo/p/Wind_Caller/WindysOOTValuables/)
@@ -258,7 +263,7 @@ The game is smooth and fully playable. You are welcome to enable or disable mods
 
 </details>
 
-## Extra Enemies (8+)
+## Extra Enemies (9+)🆕
 <details><summary>details</summary>
 
 ### ***[ColorfulEnemyVariants](https://thunderstore.io/c/repo/p/JustSomeDevGuy/ColorfulEnemyVariants/)***
@@ -278,6 +283,9 @@ The game is smooth and fully playable. You are welcome to enable or disable mods
 
 ### ***[YippeeDuckEnemy](https://thunderstore.io/c/repo/p/AriIcedT/YippeeDuckEnemy/)***
 - ***`Yippee Duck`***
+
+🆕### ***[GambitPopQuiz](https://thunderstore.io/c/repo/p/FJX/GambitPopQuiz/)***
+- ***`Math Teacher`***
 
 </details>
 
@@ -349,8 +357,12 @@ The game is smooth and fully playable. You are welcome to enable or disable mods
 
 </details>
 
-## Known Bugs
+## FAQ & Known Bugs
 <details><summary>details</summary>
+
+- Download time will be longer only at the first time installing.
+- Large modpack so long waiting time for the modpack to load.
+- Large modpack so long waiting time between the scenes switching (looks like freezing and 0 FPS) is expected and normal.
 
 - **Issue**
   - [General] Upgrades are not displayed correctly.
@@ -385,18 +397,26 @@ This project is licensed under [The Unlicense](https://unlicense.org/) (public d
 
 <details><summary><b>說明 (中文)</b></summary>
 
-## 版本 Version: V0.16.0
+## 版本 Version: V0.16.2
 
 - ***Diversity Update 多樣性更新***
-
+- 0.16.2
+  - 新增 1 種敵人：數學老師
+  - 修正模組包數量
+    - 移除 [PeakValuables](https://thunderstore.io/c/repo/p/ItsEmul/PEAKValuables/)，確保模組包總數正確（133+1）
+- 0.16.1
+  - 新增更多 Mutators 變體！[Mutators](https://thunderstore.io/c/repo/p/Xepos/Mutators/), [Mutators_Addon](https://thunderstore.io/c/repo/p/GastrodonGroup/Mutators_Addon/)
+  - 更新部分模組。
 - 0.16.0
   - 更多 Mutators 隨機事件！[Mutators](https://thunderstore.io/c/repo/p/Xepos/Mutators/), [Mutators_Addon](https://thunderstore.io/c/repo/p/GastrodonGroup/Mutators_Addon/)
   - 更多外觀等你探索！[Cat_Cosmetics](https://thunderstore.io/c/repo/p/Eberk/Cat_Cosmetics/), [KitesRepoCosmetics](https://thunderstore.io/c/repo/p/Kite_Sergal/KitesRepoCosmetics/), [MonsterCosmetics](https://thunderstore.io/c/repo/p/Xuaun/MonsterCosmetics/), [FortniteSemibot](https://thunderstore.io/c/repo/p/Xuaun/FortniteSemibot/), [YoshiCarry](https://thunderstore.io/c/repo/p/Xuaun/YoshiCarry/), [Pokemon_Cosmetics](https://thunderstore.io/c/repo/p/Omniscye/Pokemon_Cosmetics/), [Sims_Cosmetics](https://thunderstore.io/c/repo/p/Omniscye/Sims_Cosmetics/),
   - 還有更多...
   
 - 建議不要在 Gale mod manager 點「update all」。
+- 建議使用 Gale 管理模組包
+- 建議下載或每次更新時，都重新創建一個 Profile
 - V0.14.X 及更早版本在 Cosmetic Update 後已過時、無法正常運作。
-- 目前 bug 與衝突清單見 [已知 Bug](#已知-Bug)。多數不影響遊玩。
+- 目前 bug 與衝突清單見 **[FAQ & 已知 Bug]**。多數不影響遊玩。
 - 設定繁中方法:
   - 前往 Steam REPO 的資料夾 (EX: ...\SteamLibrary\steamapps\common\REPO\REPO_Data\StreamingAssets\Localizations)
   - 將 Game.tsv HUD.tsv Menu.tsv 刪除
@@ -407,9 +427,9 @@ This project is licensed under [The Unlicense](https://unlicense.org/) (public d
 
 ## 特色 Features:
 
-- 模組數量：133
+- 模組數量：133 + 1（模組包圖示）
 - 最完整的繁體中文支援！（本人編修，並感謝 [GDG Traditional Chinese Translation](https://thunderstore.io/c/repo/p/GrandDuchyOfGames/GDG_Traditional_Chinese_Translation/) by GrandDuchyOfGames）
-- ***`Enemies`*** 怪物：Vanilla 29 + Modded 8+ = 37+（含顏色變體）
+- ***`Enemies`*** 怪物：Vanilla 29 + Modded 9+ = 38+（含顏色變體）
 - ***`Maps`*** 地圖：Vanilla 4 + Modded 19 = 23
 - ***`Upgrades`*** 升級：Vanilla 12 + Modded 24 = 36
 - ***`Valuables`*** 價值物品：2000+
@@ -439,7 +459,7 @@ This project is licensed under [The Unlicense](https://unlicense.org/) (public d
 | ***`死亡 + R`*** | 自我復活 | [MoreUpgrades](https://thunderstore.io/c/repo/p/BULLETBOT/MoreUpgrades/) |
 | ***`特殊事件 + R`*** | 發射雷射 | [Mutators](https://thunderstore.io/c/repo/p/Xepos/Mutators/) |
 | ***`F5`*** | 第三人稱 | [Repo Native ThirdPerson ActionMovement](https://thunderstore.io/c/repo/p/sam0324sam/Repo_Native_ThirdPerson_ActionMovement/) |
-| ***`4`*** | 眨眨眼！ >_0 | [Wink](https://thunderstore.io/c/repo/p/Vippy/Wink/) |
+| ***`4`*** | 🆕眨眨眼！ >_0 | [Wink](https://thunderstore.io/c/repo/p/Vippy/Wink/) |
 
 ### 除錯 Debug
 | 按鍵 | 功能 | 模組 |
@@ -475,7 +495,6 @@ This project is licensed under [The Unlicense](https://unlicense.org/) (public d
 - [Monster Plushies](https://thunderstore.io/c/repo/p/Dumbapple/MonsterPlushies/)
 
 ### ***其他遊戲 價值物品***
-- ***`Peak`*** [PEAKValuables](https://thunderstore.io/c/repo/p/ItsEmul/PEAKValuables/)
 - ***`Pokémon`*** [PokemonItems](https://thunderstore.io/c/repo/p/Kiriki/PokemonItems/)
 - ***`Abiotic Factor`*** [AbioticFactorValuables](https://thunderstore.io/c/repo/p/Nikki/AbioticFactorValuables/)
 - ***`The Legend of Zelda: Ocarina of Time`*** [WindysOOTValuables](https://thunderstore.io/c/repo/p/Wind_Caller/WindysOOTValuables/)
@@ -642,10 +661,10 @@ This project is licensed under [The Unlicense](https://unlicense.org/) (public d
 
 </details>
 
-## 額外敵人 Extra Enemies (8+)
+## 額外敵人 Extra Enemies (9+)🆕
 <details><summary>展開</summary>
 
-### ***[原版怪物顏色變體](https://thunderstore.io/c/repo/p/JustSomeDevGuy/ColorfulEnemyVariants/)***
+### ***[ColorfulEnemyVariants](https://thunderstore.io/c/repo/p/JustSomeDevGuy/ColorfulEnemyVariants/)***
 
 ### ***[Wesleys Enemies](https://thunderstore.io/c/repo/p/Magic_Wesley/Wesleys_Enemies/)***
 - ***`噴毒柱`***
@@ -662,6 +681,9 @@ This project is licensed under [The Unlicense](https://unlicense.org/) (public d
 
 ### ***[YippeeDuckEnemy](https://thunderstore.io/c/repo/p/AriIcedT/YippeeDuckEnemy/)***
 - ***`伊比鴨鴨`***
+
+🆕### ***[GambitPopQuiz](https://thunderstore.io/c/repo/p/FJX/GambitPopQuiz/)***
+- ***`數學老師`***
 
 </details>
 
@@ -735,8 +757,12 @@ This project is licensed under [The Unlicense](https://unlicense.org/) (public d
 
 <a id="已知-Bug"></a>
 
-## 已知 Bug
+## FAQ & 已知 Bug
 <details><summary>展開</summary>
+
+- 僅首次安裝時下載時間較長。
+- 模組包較大，載入模組包需等待較久。
+- 模組包較大，場景切換間等待較久（看似凍結、0 FPS）屬正常現象。
 
 - **問題**
   - [General] 升級 UI 顯示錯位
